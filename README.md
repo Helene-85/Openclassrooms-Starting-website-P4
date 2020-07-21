@@ -1,4 +1,4 @@
-+ Lien vers la page web : 
++ Lien vers la page web : https://helene-mb.github.io/Openclassrooms-Starting-website/
 
 - Réalisé par : Openclassrooms
 - Contenu : site web du Projet 4 de la formation Développeur Web Junior d'Openclassrooms "Optimisez un site existant"
