@@ -2,7 +2,8 @@
 
 - Réalisé par : Openclassrooms
 - Contenu : site web du Projet 4 de la formation Développeur Web Junior d'Openclassrooms "Optimisez un site existant"
-- Lien vers le site optimisé :
+
++ Lien vers le site optimisé : https://helene-mb.github.io/OC-P4-LaChouetteAgence-optimized/
 
 + Compétences évaluées :
 
